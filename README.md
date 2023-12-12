@@ -8,8 +8,7 @@ In this GIT repository, you will find the following items:
 1. [new-york-cars-big-data-2023](new-york-cars-big-data-2023.zip) is the zip file that is downloaded from from Bektas, A. T. (2023, June). ` New York Cars`. Kaggle. 
 Retrieved from https://www.kaggle.com/datasets/ahmettalhabektas/new-york-cars-big-data-2023, Dec.11, 2023.
 
-3. `data` folder contains unzipped `.csv` files from the zipfile listed above.
-4. [car_unsupervised_learning](car_unsupervised_learning.ipynb) is the jupyter notebook of this project.
+2. [car_unsupervised_learning](car_unsupervised_learning.ipynb) is the jupyter notebook of this project.
 
 ## Project Summary
 In this project, I will be using unsupervised learning and supervised learning techniques to classify cars from a given database.
